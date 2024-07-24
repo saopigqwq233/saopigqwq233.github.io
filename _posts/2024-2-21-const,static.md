@@ -1,3 +1,19 @@
+---
+
+layout:post
+
+title:"关键字使用"
+
+date:2024-2-21
+
+tags:\[c\\c++\]
+
+comments:true
+
+author: saopigqwq233
+
+---
+
 # 关键字使用
 
 ## 1. const
@@ -357,3 +373,5 @@ des class
   运行结果：
   
   ```bash
+  
+  ```
